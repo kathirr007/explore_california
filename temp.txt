@@ -1,3 +1,0 @@
-This is the temperory file and don't added to the git repository
-
-
